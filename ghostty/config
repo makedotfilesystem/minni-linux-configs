@@ -1,0 +1,13 @@
+# Hide the window title bar
+window-decoration = none
+
+# Set background opacity (1.0 = fully opaque, 0.0 = fully transparent)
+background-opacity = 0.4
+
+# Optional: make sure the compositor supports transparency
+# This enables transparency blending for the terminal background
+background-blur = true
+
+# Optional aesthetics
+font-size = 13
+theme = "Gruvbox Dark"
